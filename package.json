@@ -1,7 +1,6 @@
 {
   "name": "exercicio",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "sass": "sass source/main.scss build/main.css --watch",
@@ -11,5 +10,6 @@
   "license": "ISC",
   "devDependencies": {
     "sass": "^1.70.0"
-  }
+  },
+  "description": ""
 }
